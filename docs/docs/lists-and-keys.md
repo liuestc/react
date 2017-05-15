@@ -48,7 +48,6 @@ ReactDOM.render(
 
 这段代码显示了1到5之间的数字列表
 
-### Basic List Component
 ### 基础列表组件
 
 通常你需要渲染一个列表到[组件](/react/docs/components-and-props.html)中
@@ -177,7 +176,7 @@ ReactDOM.render(
 ```
 
 
-** key的正确使用方式 **
+**key的正确使用方式**
 
 ```javascript{2,3,9,10}
 function ListItem(props) {
