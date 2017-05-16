@@ -207,7 +207,7 @@ ReactDOM.render(
 
 [Try it on CodePen.](https://codepen.io/rthor/pen/QKzJKG?editors=0010)
 
-一个好的经验法则是,`map()`内部的元素调用需要key
+一个好的经验法则是,`map()`内部的元素调用需要key.
 
 ### keys必须唯一
 
